@@ -1,4 +1,4 @@
-# basic-metrics
+# Basic Metrics
 Metrics Logger
 
 
